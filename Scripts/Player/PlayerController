@@ -85,7 +85,7 @@ public class PlayerController : MonoBehaviour {
     private void Update()
     {
             CameraVision();
-            Movemment();
+            Movement();
 
             if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow))
             {
@@ -132,7 +132,7 @@ public class PlayerController : MonoBehaviour {
 
     // Control the movement of the player for now with the right and left arrows;
     // It works with the movement of the player in the rise of walls;
-    private void Movemment()
+    private void Movement()
     {
         Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         
