@@ -1,4 +1,4 @@
-# Ta-pegando-Fogo-Bixo
+# Ta pegando Fogo Bixo
 JOGO EM ANDAMENTO
 
 Criadores: Gabriela Mithidieri (Designer), Giovana Tie Nakata (Designer), Larissa Paes (Designer), Renata Gonçalves (Programmer) e Rodrigo Capitelli (Designer),
