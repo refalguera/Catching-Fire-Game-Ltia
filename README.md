@@ -1,4 +1,4 @@
-# Ta pegando Fogo Bixo 
+# It's catching fire
 GAME IN PROGRESS
 
 Criadores: Gabriela Mithidieri (Designer), Giovana Tie Nakata (Designer), Larissa Paes (Designer), Renata Gonçalves (Programmer) e Rodrigo Capitelli (Designer).
