@@ -1,5 +1,7 @@
 # It's catching fire
 
+Game developed as project of Laboratory of Applied Information Technology (LTIA) during my work as Game Developer at the laboratory.
+
 Creators: Gabriela Mithidieri (Designer), Giovana Tie Nakata (Designer), Larissa Paes (Designer), Renata Gonçalves (Programmer) e Rodrigo Capitelli (Designer).
 
 2D multiplayer game of 4 players not using server (all players play on a single PC).
