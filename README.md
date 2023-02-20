@@ -1,7 +1,6 @@
 # It's catching fire
-GAME IN PROGRESS
 
-Criadores: Gabriela Mithidieri (Designer), Giovana Tie Nakata (Designer), Larissa Paes (Designer), Renata Gonçalves (Programmer) e Rodrigo Capitelli (Designer).
+Creators: Gabriela Mithidieri (Designer), Giovana Tie Nakata (Designer), Larissa Paes (Designer), Renata Gonçalves (Programmer) e Rodrigo Capitelli (Designer).
 
 2D multiplayer game of 4 players not using server (all players play on a single PC).
 
